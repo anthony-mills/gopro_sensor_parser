@@ -8,6 +8,11 @@ Fortunately [GoPro has made a library for parsing files encoded with GPMF availa
 
 ## Usage 
 
+_cd src/_
+
+_make_
+
+_./gpmfdemo ../sample_data/sample_flight.SES_
 
 ## License Terms
 
