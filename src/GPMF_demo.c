@@ -24,7 +24,7 @@
 #include <string.h>
 #include <stdint.h>
 
-#include "../GPMF_parser.h"
+#include "parser/GPMF_parser.h"
 #include "GPMF_mp4reader.h"
 
 
